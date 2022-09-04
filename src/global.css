@@ -1,0 +1,25 @@
+.w-100vw {
+  width: 100vw;
+}
+.h-100vh {
+  height: 100vh;
+}
+.mnh-50vh {
+  min-height: 50vh;
+}
+
+#loginLayout-img {
+  background-image: url("../public/assets/loginLayout.jpg");
+  background-size: cover;
+}
+
+#login-submit {
+  background-color: orange;
+}
+
+.logo {
+  background-image: url("../public/assets/profile.webp");
+  background-size: cover;
+  height: 20vh;
+  width: 20vh;
+}
